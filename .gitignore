@@ -1,16 +1,16 @@
-# Compiled class file
+# Compiled Java class files
 *.class
 
-# Log file
+# Logs
 *.log
 
-# BlueJ files
+# BlueJ
 *.ctxt
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
-# Package Files #
+# Packaging
 *.jar
 *.war
 *.nar
@@ -19,6 +19,21 @@
 *.tar.gz
 *.rar
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+# JVM crash logs
 hs_err_pid*
 replay_pid*
+
+# Gradle output
+/build
+/.gradle
+.gradle/
+/out
+
+# VS Code settings (only include tasks and launch configs)
+.vscode/*
+!.vscode/launch.json
+!.vscode/tasks.json
+
+# OS-specific files
+.DS_Store
+Thumbs.db
