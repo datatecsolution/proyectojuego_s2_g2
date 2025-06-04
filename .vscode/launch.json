@@ -6,7 +6,7 @@
             "name": "Debug Juego",
             "request": "launch",
             "mainClass": "net.perlasjp.juego.Main",
-            "projectName": "Juego-Perla-12-S2-G1"
+            "projectName": "Juego-Perla-12-S2-G2"
         }
     ]
 }
