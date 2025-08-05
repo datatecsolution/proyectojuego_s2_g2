@@ -2,5 +2,7 @@ package net.perlasjp.juego;
 
 public class Historia {
 
-    public Introduccion ()
+    public void Introduccion (){
+        
+    }
 }
