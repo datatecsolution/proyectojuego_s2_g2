@@ -1,7 +1,7 @@
 package net.perlasjp.juego;
 
-class juego {
-    private Jugador juegador;
+class Prueba {
+    private Jugador jugador;
     private Enemigo enemigo;
     private Combate combate;
 
