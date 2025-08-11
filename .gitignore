@@ -28,6 +28,7 @@ replay_pid*
 /.gradle
 .gradle/
 /out
+/bin
 
 # VS Code settings (only include tasks and launch configs)
 .vscode/*
