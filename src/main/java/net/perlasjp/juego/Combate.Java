@@ -1,6 +1,9 @@
 package net.perlasjp.juego;
+public class Combate {
+    private jugador jugador;
+    private Enemigo Enemigo;
 
-public class Combate{
-
-    
+    public void iniciar (Enemigo enemigo, jugador jugador){
+        
+    }
 }
