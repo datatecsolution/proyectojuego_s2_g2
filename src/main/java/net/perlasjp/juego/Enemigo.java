@@ -1,6 +1,6 @@
 package net.perlasjp.juego;
 
-public class Ememigo {
+public class Enemigo {
     private String nombre;
     private int salud;
     private int fuerza;
