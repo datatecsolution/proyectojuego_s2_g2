@@ -24,8 +24,8 @@ public class Enemigo {
 
     public Enemigo(String nombre, int salud) {
 
-        n = nombre;
-        s = salud;
+      nombre= n;
+      salud= s;
         fuerza = new Random().nextInt(bound:5)+ 5;
 
     }
